@@ -1,3 +1,23 @@
+
+
+* Tutorials
+    * [Full Stack Python](https://www.fullstackpython.com/)
+    * [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+    * [Real Python](https://realpython.com)
+    * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+    * [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+* Libraries
+    * [Awesome Python @LibHunt](https://python.libhunt.com/)
+* Others
+    * [Python ZEEF](https://python.zeef.com/alan.richmond)
+    * [Pythonic News](https://news.python.sc/)
+    * [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
+
+
+
+
+
+
 # Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Python frameworks, libraries, software and resources.
